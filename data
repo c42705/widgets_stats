@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "tumbaperas",
+      "hamaca": 0.5,
+      "hale": 0.5,
+      "kobit": 0.5,
+      "echarle": 0.5
+    },
+    {
+      "id": "ponki",
+      "hamaca": 0.5,
+      "hale": 0.5,
+      "kobit": 0.5,
+      "echarle": 0.5
+    },
+    {
+      "id": "jlo",
+      "hamaca": 0.5,
+      "hale": 0.5,
+      "kobit": 0.5,
+      "echarle": 0.5
+    }
+  ]
+}
