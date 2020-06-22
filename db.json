@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": "tumbaperas",
-      "hamaca": 0.5,
-      "hale": 0.5,
-      "kobit": 0.5,
-      "echarle": 0.5
+      "hamaca": 30,
+      "hale": 25,
+      "kobit": 50,
+      "echarle": 10
     },
     {
       "id": "ponki",
